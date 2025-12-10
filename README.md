@@ -11,7 +11,7 @@ I am a Software Engineering.My specified track is frontend engineering.I'm also 
 - 🌱 Expert in JavaScript, Reactjs, React native, Vue , Typescript etc...
 - 😊 Currently Open to Opportunities.
 - 💼 Job interests: Software Engineer, Frontend Engineer, or UI Engineer (Intern or Junior level).
-- 📫 You can [view my resume](https://docs.google.com/document/d/1LwWLNz7w2XWzBsubIws-_yseiSxI0d88vM_oYWoTYc8/edit#heading=h.4prkjmzco10w) and contact me by emailing sagaedeh@gmail.com
+- 📫 You can [view my resume] and contact me by emailing sagaedeh@gmail.com
 
 ---
 
