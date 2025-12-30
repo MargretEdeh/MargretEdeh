@@ -17,3 +17,7 @@ I am a Software Engineering.My specified track is frontend engineering.I'm also 
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=MargretEdeh&show_icons=true&include_all_commits=true&hide_border=true" alt="Margret's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MargretEdeh&langs_count=8&layout=compact&hide_border=true" alt="Margret's GitHub stats" /> |
 | ------------- | ------------- |
+
+| My GitHub Stats | Most Used Languages |
+| :---: | :---: |
+| <img src="https://github-readme-stats.vercel.app/api?username=MargretEdeh&show_icons=true&include_all_commits=true&hide_border=true&theme=radical&cache_seconds=3600" alt="Margret's GitHub stats" width="400" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MargretEdeh&langs_count=8&layout=compact&hide_border=true&theme=radical&cache_seconds=3600" alt="Margret's Top Langs" width="300" /> |
